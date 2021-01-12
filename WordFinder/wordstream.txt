@@ -1,0 +1,14 @@
+house
+dog
+cat
+table
+sun
+dragon
+ball
+yes
+mouse
+lion
+book
+water
+food
+star
